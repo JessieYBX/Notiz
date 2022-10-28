@@ -1,0 +1,3 @@
+/Users/yanbaoxin/CLionProjects/schleife/cmake-build-debug/CMakeFiles/schleife.dir
+/Users/yanbaoxin/CLionProjects/schleife/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yanbaoxin/CLionProjects/schleife/cmake-build-debug/CMakeFiles/rebuild_cache.dir
