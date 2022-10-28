@@ -1,0 +1,3 @@
+/Users/yanbaoxin/CLionProjects/test_getchar_2_10_28/cmake-build-debug/CMakeFiles/test_getchar_2_10_28.dir
+/Users/yanbaoxin/CLionProjects/test_getchar_2_10_28/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yanbaoxin/CLionProjects/test_getchar_2_10_28/cmake-build-debug/CMakeFiles/rebuild_cache.dir
